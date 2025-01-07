@@ -5,6 +5,8 @@ It was used to introduce how BPE tokenization works and its limitations.
 
 Byte Latent Transformer is an effort by Meta to replace BPE tokenization with trainable layers which operate at character level.
 
+---
+
 ### Resources
 
 These are a MUST:
